@@ -3,7 +3,7 @@
 ## ENG: 
 - Software was developed for my end of studies presentation. 
 - Java for Android
-- SQLite as my database.
+- SQLite for the database.
 - Software main language: Spanish
 
 -- Softwarte under pending review and completion. 
