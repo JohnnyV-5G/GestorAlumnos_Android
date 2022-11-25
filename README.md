@@ -6,7 +6,6 @@
 - SQLite for the database.
 - Main language notes: Spanish
 
--- Softwarte under pending review and completion. 
 
 ## ES:
 - Software fue desarrollado para mi trabaja de fin de ciclo. 
